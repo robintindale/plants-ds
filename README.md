@@ -1,2 +1,5 @@
 # Plants Design System
-Welcome to our wonderful desing language
+
+<img src='https://i.imgur.com/DNWg1rd.jpg'>
+
+Welcome to our wonderful design language
