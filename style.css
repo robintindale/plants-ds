@@ -1,3 +1,10 @@
 .button{
   background-color:#D6B158;
+  display:inline-block;
+  font-family:sans-serif;
+  font-variant:small-caps;
+  padding:16px  32px 16px 32px;
+  border-radius:28px;
+  font-size:20px;
+  color:white;
 }
