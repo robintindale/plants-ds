@@ -1,10 +1,23 @@
 .button{
-  background-color:#D6B158;
-  display:inline-block;
+  text-align:center;
+  background:#F63E7C;
   font-family:sans-serif;
-  font-variant:small-caps;
-  padding:16px  32px 16px 32px;
-  border-radius:28px;
-  font-size:20px;
   color:white;
+  display:inline-block;
+  cursor:pointer;
+}
+.button.large{
+  font-size:20px;
+  padding:15px;
+  border-radius:30px;
+}
+.button.medium{
+  font-size:14px;
+  padding:10px;
+  border-radius:20px;
+}
+.button.small{
+  font-size:11px;
+  padding:5px;
+  border-radius:15px;
 }
