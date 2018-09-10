@@ -2,7 +2,7 @@
 
 ## CSS
 
-Include https://cdn.rawgit.com/robintindale/plants-ds/a31bdb57/style.css
+Include our CSS file https://cdn.rawgit.com/robintindale/plants-ds/a31bdb57/style.css
 
 ## Components
 
