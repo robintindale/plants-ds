@@ -1,7 +1,15 @@
-# Plants Design System
+# 🌵🌱🌿 Plants Design System
 
-To use our CSS - include this file https://cdn.rawgit.com/robintindale/plants-ds/d14ea8d4/styles/style.css
+## CSS
 
-<img src='https://i.imgur.com/DNWg1rd.jpg'>
+Include https://cdn.rawgit.com/robintindale/plants-ds/a31bdb57/style.css
 
-Welcome to our wonderful design language
+## Components
+
+### Buttons
+
+```
+<div class='button large'>Button</div>
+<div class='button'>Button</div>
+<div class='button'>Button</div>
+```
