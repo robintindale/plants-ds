@@ -22,5 +22,5 @@ Include our CSS file https://cdn.rawgit.com/robintindale/plants-ds/fb5c2a98/styl
 
 ### Input
 ```
-<input/>
+<input placeholder="Enter something"/>
 ```
