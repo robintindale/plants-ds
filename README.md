@@ -19,3 +19,8 @@ Include our CSS file https://cdn.rawgit.com/robintindale/plants-ds/fb5c2a98/styl
 ```
 <div class='button small'>Button</div>
 ```
+
+### Input
+```
+<input/>
+```
