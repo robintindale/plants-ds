@@ -11,5 +11,5 @@ Include our CSS file https://cdn.rawgit.com/robintindale/plants-ds/a31bdb57/styl
 ```
 <div class='button large'>Button</div>
 <div class='button'>Button</div>
-<div class='button'>Button</div>
+<div class='button small'>Button</div>
 ```
