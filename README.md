@@ -7,9 +7,15 @@ Include our CSS file https://cdn.rawgit.com/robintindale/plants-ds/a31bdb57/styl
 ## Components
 
 ### Buttons
-
+**Large button**
 ```
 <div class='button large'>Button</div>
+```
+**Medium button**
+```
 <div class='button'>Button</div>
+```
+**Small button**
+```
 <div class='button small'>Button</div>
 ```
